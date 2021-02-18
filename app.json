@@ -1,0 +1,12 @@
+{
+  "name": "efficiency-tracker",
+  "displayName": "efficiency-tracker",
+  "expo": {
+    "name": "efficiency-tracker",
+    "slug": "efficiency-tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
